@@ -4,11 +4,6 @@ description: A short description of what your blog is about.
 url: 'https://sarastro.ng'
 baseurl: ''
 
-# Author
-author:
-  name: Sara Strong
-  email: you@example.com
-
 # Theme
 theme: minima
 
