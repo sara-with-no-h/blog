@@ -1,0 +1,23 @@
+# Site Settings
+title: My Blog
+description: A short description of what your blog is about.
+url: 'https://sarastro.ng'
+baseurl: ''
+
+# Author
+author:
+  name: Sara Strong
+  email: you@example.com
+
+# Theme
+remote_theme: fongandrew/hydeout
+
+# Build Settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
